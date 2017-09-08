@@ -1,0 +1,373 @@
+2017-02-17 00:05:16: -- Analysis Started by User Command
+2017-02-17 00:06:05: /about.html: Conflict: New files that differ
+2017-02-17 00:06:05: /contact.html: Conflict: New files that differ
+2017-02-17 00:06:05: /css/animate.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/bootstrap.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/bootstrap.css.map: Conflict: New files that differ
+2017-02-17 00:06:05: /css/flexslider.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/icomoon.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/magnific-popup.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/owl.carousel.min.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/owl.theme.default.min.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/style.css: Conflict: New files that differ
+2017-02-17 00:06:05: /css/style.css.map: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/bootstrap/glyphicons-halflings-regular.eot: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/bootstrap/glyphicons-halflings-regular.svg: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/bootstrap/glyphicons-halflings-regular.ttf: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/bootstrap/glyphicons-halflings-regular.woff: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/bootstrap/glyphicons-halflings-regular.woff2: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/icomoon/icomoon.eot: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/icomoon/icomoon.svg: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/icomoon/icomoon.ttf: Conflict: New files that differ
+2017-02-17 00:06:05: /fonts/icomoon/icomoon.woff: Conflict: New files that differ
+2017-02-17 00:06:05: /images/img_1.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/img_bg_1.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/img_bg_2.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/img_bg_3.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/loader.gif: Conflict: New files that differ
+2017-02-17 00:06:05: /images/person_1.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/person_2.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /images/person_3.jpg: Conflict: New files that differ
+2017-02-17 00:06:05: /index.html: Conflict: New files that differ
+2017-02-17 00:06:05: /js/bootstrap.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/jquery.countTo.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/jquery.easing.1.3.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/jquery.magnific-popup.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/jquery.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/jquery.waypoints.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/magnific-popup-options.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/main.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/modernizr-2.6.2.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/owl.carousel.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /js/respond.min.js: Conflict: New files that differ
+2017-02-17 00:06:05: /README.txt: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/_bootstrap-compass.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/_bootstrap-mincer.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/_bootstrap-sprockets.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_alerts.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_badges.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_breadcrumbs.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_button-groups.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_buttons.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_carousel.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_close.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_code.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_component-animations.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_dropdowns.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_forms.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_glyphicons.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_grid.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_input-groups.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_jumbotron.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_labels.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_list-group.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_media.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_mixins.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_modals.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_navbar.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_navs.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_normalize.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_pager.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_pagination.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_panels.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_popovers.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_print.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_progress-bars.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_responsive-embed.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_responsive-utilities.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_scaffolding.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_tables.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_theme.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_thumbnails.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_tooltip.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_type.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_utilities.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_variables.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/_wells.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_alerts.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_background-variant.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_border-radius.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_buttons.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_center-block.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_clearfix.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_forms.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_gradients.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_grid-framework.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_grid.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_hide-text.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_image.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_labels.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_list-group.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_nav-divider.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_nav-vertical-align.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_opacity.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_pagination.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_panels.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_progress-bar.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_reset-filter.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_reset-text.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_resize.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_responsive-visibility.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_size.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_tab-focus.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_table-row.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_text-emphasis.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_text-overflow.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap/mixins/_vendor-prefixes.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/bootstrap.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /sass/style.scss: Conflict: New files that differ
+2017-02-17 00:06:05: /services.html: Conflict: New files that differ
+2017-02-17 00:06:05: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2017-02-17 00:06:05: Changes: 118, Conflicts: 118, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 267
+2017-02-17 00:06:05: -- Analysis Complete. Time 00:00:53, Speed: 5 files/s
+2017-02-17 00:06:05: 
+2017-02-17 00:06:23: Done.
+2017-02-17 00:06:24: === User Changed Action from 'CONFLICT' to 'COPY_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_text-overflow.scss
+2017-02-17 00:06:24: Done.
+2017-02-17 00:06:27: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_text-overflow.scss
+2017-02-17 00:06:27: Done.
+2017-02-17 00:06:28: Done.
+2017-02-17 00:06:29: Done.
+2017-02-17 00:06:30: Done.
+2017-02-17 00:06:43: Done.
+2017-02-17 00:06:45: Done.
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /about.html
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /contact.html
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/animate.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/bootstrap.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/bootstrap.css.map
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/flexslider.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/icomoon.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/magnific-popup.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/owl.carousel.min.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/owl.theme.default.min.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/style.css
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /css/style.css.map
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/bootstrap/glyphicons-halflings-regular.eot
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/bootstrap/glyphicons-halflings-regular.svg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/bootstrap/glyphicons-halflings-regular.ttf
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/bootstrap/glyphicons-halflings-regular.woff
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/bootstrap/glyphicons-halflings-regular.woff2
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/icomoon/icomoon.eot
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/icomoon/icomoon.svg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/icomoon/icomoon.ttf
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /fonts/icomoon/icomoon.woff
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/img_1.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/img_bg_1.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/img_bg_2.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/img_bg_3.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/loader.gif
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/person_1.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/person_2.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /images/person_3.jpg
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /index.html
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/bootstrap.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/jquery.countTo.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/jquery.easing.1.3.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/jquery.magnific-popup.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/jquery.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/jquery.waypoints.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/magnific-popup-options.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/main.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/modernizr-2.6.2.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/owl.carousel.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /js/respond.min.js
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /README.txt
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/_bootstrap-compass.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/_bootstrap-mincer.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/_bootstrap-sprockets.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_alerts.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_badges.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_breadcrumbs.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_button-groups.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_buttons.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_carousel.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_close.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_code.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_component-animations.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_dropdowns.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_forms.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_glyphicons.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_grid.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_input-groups.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_jumbotron.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_labels.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_list-group.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_media.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_mixins.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_modals.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_navbar.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_navs.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_normalize.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_pager.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_pagination.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_panels.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_popovers.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_print.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_progress-bars.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_responsive-embed.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_responsive-utilities.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_scaffolding.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_tables.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_theme.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_thumbnails.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_tooltip.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_type.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_utilities.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_variables.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/_wells.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_alerts.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_background-variant.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_border-radius.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_buttons.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_center-block.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_clearfix.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_forms.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_gradients.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_grid-framework.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_grid.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_hide-text.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_image.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_labels.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_list-group.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_nav-divider.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_nav-vertical-align.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_opacity.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_pagination.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_panels.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_progress-bar.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_reset-filter.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_reset-text.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_resize.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_responsive-visibility.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_size.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_tab-focus.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_table-row.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_text-emphasis.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_text-overflow.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap/mixins/_vendor-prefixes.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/bootstrap.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /sass/style.scss
+2017-02-17 00:06:57: === User Changed Action from 'CONFLICT' to 'TIME_LEFT_TO_RIGHT' on item /services.html
+2017-02-17 00:06:57: Done.
+2017-02-17 00:07:05: == Sync Started by Sync Only Command
+2017-02-17 00:07:08: Copy Mod Time of C:/Users/colm_/FTP/Aion/about.html to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/about.html
+2017-02-17 00:07:08: Copy Mod Time of C:/Users/colm_/FTP/Aion/contact.html to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/contact.html
+2017-02-17 00:07:09: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/animate.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/animate.css
+2017-02-17 00:07:09: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/bootstrap.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/bootstrap.css
+2017-02-17 00:07:10: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/bootstrap.css.map to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/bootstrap.css.map
+2017-02-17 00:07:10: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/flexslider.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/flexslider.css
+2017-02-17 00:07:10: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/icomoon.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/icomoon.css
+2017-02-17 00:07:11: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/magnific-popup.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/magnific-popup.css
+2017-02-17 00:07:11: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/owl.carousel.min.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/owl.carousel.min.css
+2017-02-17 00:07:11: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/owl.theme.default.min.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/owl.theme.default.min.css
+2017-02-17 00:07:11: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/style.css to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/style.css
+2017-02-17 00:07:12: Copy Mod Time of C:/Users/colm_/FTP/Aion/css/style.css.map to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/css/style.css.map
+2017-02-17 00:07:12: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/bootstrap/glyphicons-halflings-regular.eot to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/bootstrap/glyphicons-halflings-regular.eot
+2017-02-17 00:07:13: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/bootstrap/glyphicons-halflings-regular.svg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/bootstrap/glyphicons-halflings-regular.svg
+2017-02-17 00:07:13: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/bootstrap/glyphicons-halflings-regular.ttf to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/bootstrap/glyphicons-halflings-regular.ttf
+2017-02-17 00:07:13: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/bootstrap/glyphicons-halflings-regular.woff to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/bootstrap/glyphicons-halflings-regular.woff
+2017-02-17 00:07:14: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/bootstrap/glyphicons-halflings-regular.woff2 to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/bootstrap/glyphicons-halflings-regular.woff2
+2017-02-17 00:07:14: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/icomoon/icomoon.eot to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/icomoon/icomoon.eot
+2017-02-17 00:07:14: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/icomoon/icomoon.svg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/icomoon/icomoon.svg
+2017-02-17 00:07:15: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/icomoon/icomoon.ttf to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/icomoon/icomoon.ttf
+2017-02-17 00:07:15: Copy Mod Time of C:/Users/colm_/FTP/Aion/fonts/icomoon/icomoon.woff to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/fonts/icomoon/icomoon.woff
+2017-02-17 00:07:16: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/img_1.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/img_1.jpg
+2017-02-17 00:07:16: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/img_bg_1.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/img_bg_1.jpg
+2017-02-17 00:07:16: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/img_bg_2.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/img_bg_2.jpg
+2017-02-17 00:07:17: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/img_bg_3.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/img_bg_3.jpg
+2017-02-17 00:07:17: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/loader.gif to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/loader.gif
+2017-02-17 00:07:17: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/person_1.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/person_1.jpg
+2017-02-17 00:07:18: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/person_2.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/person_2.jpg
+2017-02-17 00:07:18: Copy Mod Time of C:/Users/colm_/FTP/Aion/images/person_3.jpg to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/images/person_3.jpg
+2017-02-17 00:07:19: Copy Mod Time of C:/Users/colm_/FTP/Aion/index.html to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/index.html
+2017-02-17 00:07:19: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/bootstrap.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/bootstrap.min.js
+2017-02-17 00:07:19: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/jquery.countTo.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/jquery.countTo.js
+2017-02-17 00:07:20: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/jquery.easing.1.3.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/jquery.easing.1.3.js
+2017-02-17 00:07:20: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/jquery.magnific-popup.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/jquery.magnific-popup.min.js
+2017-02-17 00:07:20: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/jquery.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/jquery.min.js
+2017-02-17 00:07:21: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/jquery.waypoints.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/jquery.waypoints.min.js
+2017-02-17 00:07:21: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/magnific-popup-options.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/magnific-popup-options.js
+2017-02-17 00:07:21: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/main.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/main.js
+2017-02-17 00:07:22: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/modernizr-2.6.2.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/modernizr-2.6.2.min.js
+2017-02-17 00:07:22: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/owl.carousel.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/owl.carousel.min.js
+2017-02-17 00:07:22: Copy Mod Time of C:/Users/colm_/FTP/Aion/js/respond.min.js to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/js/respond.min.js
+2017-02-17 00:07:23: Copy Mod Time of C:/Users/colm_/FTP/Aion/README.txt to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/README.txt
+2017-02-17 00:07:24: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/_bootstrap-compass.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/_bootstrap-compass.scss
+2017-02-17 00:07:24: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/_bootstrap-mincer.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/_bootstrap-mincer.scss
+2017-02-17 00:07:24: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/_bootstrap-sprockets.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/_bootstrap-sprockets.scss
+2017-02-17 00:07:25: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_alerts.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_alerts.scss
+2017-02-17 00:07:25: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_badges.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_badges.scss
+2017-02-17 00:07:25: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_breadcrumbs.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_breadcrumbs.scss
+2017-02-17 00:07:26: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_button-groups.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_button-groups.scss
+2017-02-17 00:07:26: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_buttons.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_buttons.scss
+2017-02-17 00:07:26: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_carousel.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_carousel.scss
+2017-02-17 00:07:27: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_close.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_close.scss
+2017-02-17 00:07:27: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_code.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_code.scss
+2017-02-17 00:07:27: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_component-animations.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_component-animations.scss
+2017-02-17 00:07:28: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_dropdowns.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_dropdowns.scss
+2017-02-17 00:07:28: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_forms.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_forms.scss
+2017-02-17 00:07:28: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_glyphicons.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_glyphicons.scss
+2017-02-17 00:07:29: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_grid.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_grid.scss
+2017-02-17 00:07:29: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_input-groups.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_input-groups.scss
+2017-02-17 00:07:29: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_jumbotron.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_jumbotron.scss
+2017-02-17 00:07:30: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_labels.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_labels.scss
+2017-02-17 00:07:30: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_list-group.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_list-group.scss
+2017-02-17 00:07:30: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_media.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_media.scss
+2017-02-17 00:07:31: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_mixins.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_mixins.scss
+2017-02-17 00:07:31: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_modals.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_modals.scss
+2017-02-17 00:07:31: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_navbar.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_navbar.scss
+2017-02-17 00:07:32: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_navs.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_navs.scss
+2017-02-17 00:07:32: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_normalize.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_normalize.scss
+2017-02-17 00:07:32: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_pager.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_pager.scss
+2017-02-17 00:07:33: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_pagination.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_pagination.scss
+2017-02-17 00:07:33: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_panels.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_panels.scss
+2017-02-17 00:07:33: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_popovers.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_popovers.scss
+2017-02-17 00:07:33: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_print.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_print.scss
+2017-02-17 00:07:34: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_progress-bars.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_progress-bars.scss
+2017-02-17 00:07:34: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_responsive-embed.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_responsive-embed.scss
+2017-02-17 00:07:34: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_responsive-utilities.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_responsive-utilities.scss
+2017-02-17 00:07:35: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_scaffolding.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_scaffolding.scss
+2017-02-17 00:07:35: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_tables.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_tables.scss
+2017-02-17 00:07:35: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_theme.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_theme.scss
+2017-02-17 00:07:36: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_thumbnails.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_thumbnails.scss
+2017-02-17 00:07:36: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_tooltip.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_tooltip.scss
+2017-02-17 00:07:36: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_type.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_type.scss
+2017-02-17 00:07:37: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_utilities.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_utilities.scss
+2017-02-17 00:07:37: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_variables.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_variables.scss
+2017-02-17 00:07:37: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/_wells.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/_wells.scss
+2017-02-17 00:07:38: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_alerts.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_alerts.scss
+2017-02-17 00:07:38: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_background-variant.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_background-variant.scss
+2017-02-17 00:07:39: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_border-radius.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_border-radius.scss
+2017-02-17 00:07:39: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_buttons.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_buttons.scss
+2017-02-17 00:07:40: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_center-block.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_center-block.scss
+2017-02-17 00:07:40: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_clearfix.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_clearfix.scss
+2017-02-17 00:07:40: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_forms.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_forms.scss
+2017-02-17 00:07:41: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_gradients.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_gradients.scss
+2017-02-17 00:07:41: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_grid-framework.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_grid-framework.scss
+2017-02-17 00:07:41: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_grid.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_grid.scss
+2017-02-17 00:07:42: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_hide-text.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_hide-text.scss
+2017-02-17 00:07:42: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_image.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_image.scss
+2017-02-17 00:07:42: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_labels.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_labels.scss
+2017-02-17 00:07:43: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_list-group.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_list-group.scss
+2017-02-17 00:07:43: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_nav-divider.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_nav-divider.scss
+2017-02-17 00:07:43: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_nav-vertical-align.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_nav-vertical-align.scss
+2017-02-17 00:07:44: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_opacity.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_opacity.scss
+2017-02-17 00:07:44: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_pagination.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_pagination.scss
+2017-02-17 00:07:44: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_panels.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_panels.scss
+2017-02-17 00:07:45: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_progress-bar.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_progress-bar.scss
+2017-02-17 00:07:45: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_reset-filter.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_reset-filter.scss
+2017-02-17 00:07:45: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_reset-text.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_reset-text.scss
+2017-02-17 00:07:46: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_resize.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_resize.scss
+2017-02-17 00:07:46: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_responsive-visibility.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_responsive-visibility.scss
+2017-02-17 00:07:46: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_size.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_size.scss
+2017-02-17 00:07:47: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_tab-focus.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_tab-focus.scss
+2017-02-17 00:07:47: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_table-row.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_table-row.scss
+2017-02-17 00:07:47: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_text-emphasis.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_text-emphasis.scss
+2017-02-17 00:07:48: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_text-overflow.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_text-overflow.scss
+2017-02-17 00:07:48: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap/mixins/_vendor-prefixes.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap/mixins/_vendor-prefixes.scss
+2017-02-17 00:07:49: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/bootstrap.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/bootstrap.scss
+2017-02-17 00:07:49: Copy Mod Time of C:/Users/colm_/FTP/Aion/sass/style.scss to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/sass/style.scss
+2017-02-17 00:07:50: Copy Mod Time of C:/Users/colm_/FTP/Aion/services.html to ftp://coml.aion.feralhosting.com/media/82b7/coml/www/coml.online/public_html/services.html
+2017-02-17 00:07:53: == Sync Complete. Time: 00:00:53, Speed: 1.25 KB/s, OK: 118, Errors: 0
+2017-02-17 00:07:54: 
